@@ -26,3 +26,4 @@
     "allowedGlobals": ["tern", "acorn", "define", "clearTimeout", "setTimeout", "__dirname", "global", "process"]
   }
 }
+        
